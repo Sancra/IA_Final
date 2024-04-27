@@ -13,7 +13,7 @@ Esta tecnología puede usarse en una variedad de aplicaciones, incluido el recon
 ###### [Fuente](https://planderecuperacion.gob.es/noticias/que-es-inteligencia-artificial-ia-prtr)
 
 <p align="center">
-<img src="./Imagenes 1/Ima,png" height="320">
+<img src="./Imagenes/Ima.png" height="320">
 </p>
 
 ## Que es Programacion?
@@ -38,7 +38,7 @@ En el mundo actual, la programación es una habilidad crucial porque nos permite
 ##### [Fuente](https://fi.ort.edu.uy/blog/que-es-programar-y-para-que-sirve)
 
 <p align="center">
-<img src="./Imagenes 1/IA.png" height="320">
+<img src="./Imagenes/IA.png" height="320">
 </p>
 
 ## Comparación entre IA y Programación:
