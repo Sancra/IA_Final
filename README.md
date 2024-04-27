@@ -5,7 +5,7 @@
 2. [Programacion](#Que-es-Programacion?).
 3. [Tabla de Comparacion entre IA y Programacion](#Comparación-entre-IA-y-Programacion:).
 
-# Que es IA?
+<h1 align="center"> Que es IA?</h1>
 
 #### La rama de la informática que se dedica a la creación de máquinas capaces de replicar las habilidades mentales humanas, como el razonamiento, la resolución de problemas, el aprendizaje y la toma de decisiones, se conoce como inteligencia artificial (IA).
 
@@ -20,7 +20,7 @@ Esta tecnología puede usarse en una variedad de aplicaciones, incluido el recon
 <img src="./Imagenes/Ima.png" height="320">
 </p>
 
-# Que es Programacion?
+<h1 align="center"> Que es Programacion?</h1>
 #### El proceso de escribir instrucciones detalladas para que una computadora las entienda y ejecute se conoce como programación. 
 Los lenguajes de programación como: 
 - Python
@@ -45,7 +45,7 @@ En el mundo actual, la programación es una habilidad crucial porque nos permite
 <img src="./Imagenes/IA.png" height="320">
 </p>
 
-# Comparacion entre IA y Programación:
+#<h1 align="center"> Comparacion entre IA y Programación:</h1>
 
 |Característica	|IA|	Programación|
 |---|---|---|
