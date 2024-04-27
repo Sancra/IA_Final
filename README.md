@@ -31,10 +31,12 @@ def hola_mundo():
 #### o algo complejo, como crear una aplicación web o un videojuego.
 En el mundo actual, la programación es una habilidad crucial porque nos permite crear software que solucione problemas, automatizar tareas y mejorar nuestras vidas. Se usa en una variedad de campos, desde la ciencia y la tecnología hasta las finanzas y la medicina.
 
+[![VIDEO](https://markdown-videos.deta.dev/youtube/6svvtOjLA-A?si=5aAKYMG_eYG-0Jv4)](https://youtu.be/6svvtOjLA-A?si=5aAKYMG_eYG-0Jv4)
+
 ##### [Fuente](https://fi.ort.edu.uy/blog/que-es-programar-y-para-que-sirve)
 
 <p align="center">
-<img src="./Imagenes 1/IA,png" height="320">
+<img src="./Imagenes 1/IA.png" height="320">
 </p>
 
 ## Comparación entre IA y Programación:
