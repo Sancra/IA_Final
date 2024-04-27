@@ -5,6 +5,9 @@
 La IA busca brindar a las máquinas la capacidad de *"pensar"* y actuar de manera autónoma, al igual que las personas. 
 Esta tecnología puede usarse en una variedad de aplicaciones, incluido el reconocimiento de voz y visión por computadora, así como robots inteligentes y automóviles autónomos.La inteligencia artificial tiene la capacidad de alterar muchos aspectos de nuestras vidas, desde cómo trabajamos hasta cómo interactuamos con el mundo exterior.
 ###### [Fuente](https://planderecuperacion.gob.es/noticias/que-es-inteligencia-artificial-ia-prtr)
+<p align="center">
+<img src="./Imagenes/Ima,png" height="320">
+</p>
 ## Que es Programacion?
 #### El proceso de escribir instrucciones detalladas para que una computadora las entienda y ejecute se conoce como programación. 
 Los lenguajes de programación como: 
@@ -19,3 +22,16 @@ def hola_mundo():
 ```
 o algo complejo, como crear una aplicación web o un videojuego.
 En el mundo actual, la programación es una habilidad crucial porque nos permite crear software que solucione problemas, automatizar tareas y mejorar nuestras vidas. Se usa en una variedad de campos, desde la ciencia y la tecnología hasta las finanzas y la medicina.
+##### [Fuente](https://fi.ort.edu.uy/blog/que-es-programar-y-para-que-sirve)
+<p align="center">
+<img src="./Imagenes/IA,png" height="320">
+</p>
+## Comparación entre IA y Programación:
+
+|Característica	|IA|	Programación|
+|---|---|---|
+|Objetivo|	Simular la inteligencia humana	|Crear instrucciones para que las computadoras las ejecuten|
+|Enfoque	|Algoritmos complejos que aprenden y se adaptan	|Sintaxis y estructuras lógicas
+|Aplicaciones	|Reconocimiento de voz, visión artificial, coches autónomos, robots inteligentes	|Software, aplicaciones web, juegos, sistemas operativos
+|Rol del programador	|Diseñar, implementar y entrenar algoritmos de IA	|Escribir, depurar y mantener código
+
