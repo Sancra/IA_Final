@@ -1,7 +1,11 @@
 # IA_Final
 ###### Santiago Benavides Delgado
+## Contenido
+1. [IA](#Que-es-IA?).
+2. [Programacion](#Que-es-Programacion?).
+3. [Tabla de Comparacion entre IA y Programacion](Comparación-entre-IA-y-Programación:).
 
-## Que es IA?
+# Que es IA?
 
 #### La rama de la informática que se dedica a la creación de máquinas capaces de replicar las habilidades mentales humanas, como el razonamiento, la resolución de problemas, el aprendizaje y la toma de decisiones, se conoce como inteligencia artificial (IA).
 
@@ -41,7 +45,7 @@ En el mundo actual, la programación es una habilidad crucial porque nos permite
 <img src="./Imagenes/IA.png" height="320">
 </p>
 
-## Comparación entre IA y Programación:
+# Comparación entre IA y Programación:
 
 |Característica	|IA|	Programación|
 |---|---|---|
