@@ -21,8 +21,9 @@ Esta tecnología puede usarse en una variedad de aplicaciones, incluido el recon
 </p>
 
 <h1 align="center"> Que es Programacion?</h1>
-#### El proceso de escribir instrucciones detalladas para que una computadora las entienda y ejecute se conoce como programación. 
+ El proceso de escribir instrucciones detalladas para que una computadora las entienda y ejecute se conoce como programación. 
 Los lenguajes de programación como: 
+
 - Python
 - Java
 - C++
